@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/api', (req, res) => {
-  res.json({ "users": ["kousha", "sahand", "arta", "nima", "parsa"] });
+  res.json({ "users": ["dummy data"] });
 });
 
 const port = 8000;
