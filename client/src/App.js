@@ -18,7 +18,7 @@ function App() {
     <div >
       <Header/>
 
-      {/* <Map /> */}
+      
       
       {/* {!data ? (
         <p>Loading...</p>
